@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(61, 12, 17);
+    color: rgb(241, 196, 161);
+}
+
+.image-container {
+    float: right;
+    margin: 15px;
+    padding-bottom: 20px;
+}
+
+.heading {
+    text-align: center;
+    font-family: garamond ;
+    text-decoration: solid underline;
+}
+a {
+    color: #D80032;
+}
+
+.something {
+    border-top: 5px dashed #ffc395;
+}
+
+h3 {
+    color: #F98CA2;
+    text-decoration: solid underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Surname:hover {
+    color: red;
+}
+
